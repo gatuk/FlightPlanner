@@ -11,7 +11,7 @@ namespace DataAccessInterfaces
 		public List<Flight> SelectFlightsByDepartureTime(DateTime depTime);
 		public List<Flight> SelectFlightsByArrivalTime(DateTime arrTime);
 		public List<Flight> SelectFlightsByAirline(string arrLine);
-		public List<Flight> SelectFlightsByFlightNumber(int flightNum);
+		public List<Flight> SelectFlightsByFlightNumber(string flightNum);
 		public List<Flight> SelectFlightsByAirplaneID(int airPlaneID);
 		public List<Flight> selectAllFlights();
 		public int insert(Flight flight);

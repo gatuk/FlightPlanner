@@ -21,3 +21,4 @@ C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-mai
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\DataObjectLayer\obj\Debug\net6.0\refint\DataObjects.dll
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\DataObjectLayer\obj\Debug\net6.0\DataObjects.pdb
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\DataObjectLayer\obj\Debug\net6.0\ref\DataObjects.dll
+C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\DataObjectLayer\obj\Debug\net6.0\DataObjects.sourcelink.json

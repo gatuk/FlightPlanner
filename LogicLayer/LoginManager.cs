@@ -1,24 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using LogicLayerInterfaces;
+﻿using DataAccessInterfaces;
 using DataAccessLayer;
-using DataAccessInterfaces;
-using DataObjects;
+using LogicLayerInterfaces;
 
 namespace LogicLayer
 {
-    public class ILoginManager : ILoginManager
-    {
-        private ILoginAccessor loginAccessor = new LoginAccessor();
+	public class LoginManager : ILoginManager
+	{
+		private ILoginAccessor loginAccessor = new LoginAccessor();
 
-        public string verifyUser(string username, string password)
-        {
-            string role = "";
-            role = loginAccessor.verifyUser(username, password);
-            return role;
-        }
-    }
+		public string verifyUser(string username, string password)
+		{
+			string role = "";
+			role = loginAccessor.verifyUser(username, password);
+			return role;
+		}
+	}
 }

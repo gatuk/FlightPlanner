@@ -37,3 +37,4 @@ C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-mai
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\ILogicLayer\obj\Debug\net6.0\refint\LogicLayerInterfaces.dll
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\ILogicLayer\obj\Debug\net6.0\LogicLayerInterfaces.pdb
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\ILogicLayer\obj\Debug\net6.0\ref\LogicLayerInterfaces.dll
+C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\ILogicLayer\obj\Debug\net6.0\LogicLayerInterfaces.sourcelink.json

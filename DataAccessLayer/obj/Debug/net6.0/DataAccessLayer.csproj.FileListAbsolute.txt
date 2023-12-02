@@ -50,3 +50,4 @@ C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-mai
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.sourcelink.json

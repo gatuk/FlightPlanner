@@ -29,3 +29,4 @@ C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-mai
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\IDataAccessLayer\obj\Debug\net6.0\refint\DataAccessInterfaces.dll
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\IDataAccessLayer\obj\Debug\net6.0\DataAccessInterfaces.pdb
 C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\IDataAccessLayer\obj\Debug\net6.0\ref\DataAccessInterfaces.dll
+C:\Users\egish\OneDrive\Desktop\awaab2023\awaabWorkFinal\dotnet2FinalProject-main\dotnet2FinalProject-main\IDataAccessLayer\obj\Debug\net6.0\DataAccessInterfaces.sourcelink.json
