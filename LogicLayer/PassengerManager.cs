@@ -26,11 +26,41 @@ namespace LogicLayer
 			return result;
 		}
 
+		public bool AuthenticatePassenger(string email, string password)
+		{
+			throw new NotImplementedException();
+		}
+
 		public List<Passenger> getAllPassengers()
 		{
 			List<Passenger> passengers = new List<Passenger>();
 			passengers = _passengerAccessor.selectAllPassengers();
 			return passengers;
+		}
+
+		public PassengerVM GetPassengerVMByEmail(string email)
+		{
+			throw new NotImplementedException();
+		}
+
+		public List<string> GetRolesByPassengerID(int PassengerID)
+		{
+			throw new NotImplementedException();
+		}
+
+		public string HashSha256(string source)
+		{
+			throw new NotImplementedException();
+		}
+
+		public PassengerVM loginPassenger(string email, string password)
+		{
+			throw new NotImplementedException();
+		}
+
+		public bool ResetPassword(string email, string password, string newPassword)
+		{
+			throw new NotImplementedException();
 		}
 
 		public int updatePassenger(Passenger passenger)

@@ -215,14 +215,14 @@ namespace DataAccessFakes
 			}
 			return flights;
 		}
-
-		public List<Flight> SelectFlightsByFlightNumber(int flightNum)
+		public List<Flight> SelectFlightsByFlightNumber(string flightNum)
 		{
 			//throw new NotImplementedException();
 			List<Flight> flights = new List<Flight>();
 			foreach (var item in fakeFlights)
 			{
-				if (int.Parse(item.FlightNumber) == flightNum)
+
+				if (item.FlightNumber == flightNum)
 				{
 					flights.Add(item);
 				}
